@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Absen Siswa</string>
+    <string name="nav_attendance">Presensi</string>
+    <string name="nav_admin">Admin</string>
+    <string name="nav_barcode_gen">Buat Barcode</string>
+    <string name="nav_report">Rekap</string>
+</resources>

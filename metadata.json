@@ -1,0 +1,6 @@
+{
+  "name": "Absen Siswa",
+  "description": "Aplikasi Absensi Siswa dengan Pembuat & Pemindai Barcode serta Dashboard Admin untuk Kelola Siswa dan Kelas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
